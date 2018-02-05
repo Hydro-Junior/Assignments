@@ -1,0 +1,55 @@
+Which train operator would you like to travel with?
+1: TrainWay
+2: ChooChoo
+Menu Item 1 selected.
+Welcome to the TrainWay booking system
+Which train journey would you like to book a seat on?
+1: Journey: TJ1000 from: London to: York departing: 17:00h
+2: Journey: TJ2000 from: Swansea to: Sheffield departing: 08:00h
+Menu Item 1 selected.
+Booking seats for Journey: TJ1000 from: London to: York departing: 17:00h
+     A      B      C      D      E      F      G      H      I      
+  1 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  2 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  3 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+1. Book in First Class
+2. Book in Economy Class
+3. Show Floor Grid
+4. Quit
+Menu Item 1 selected.
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+Menu Item 1 selected.
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  2 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  3 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+Seat reservation: First class WINDOW seat at: 1A is reserved
+1. Book in First Class
+2. Book in Economy Class
+3. Show Floor Grid
+4. Quit
+Menu Item 4 selected.
+Goodbye.

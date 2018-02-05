@@ -1,0 +1,55 @@
+Which train operator would you like to travel with?
+1: TrainWay
+2: ChooChoo
+Menu Item 1 selected.
+Welcome to the TrainWay booking system
+Which train journey would you like to book a seat on?
+1: Journey: TJ1000 from: London to: York departing: 17:00h
+2: Journey: TJ2000 from: Swansea to: Sheffield departing: 08:00h
+Menu Item 1 selected.
+Booking seats for Journey: TJ1000 from: London to: York departing: 17:00h
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  2 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  3 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  4 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  5 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  6 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  7 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+  8 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+  9 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 10 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 11 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 12 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+
+1. Book in First Class
+2. Book in Economy Class
+3. Show Floor Grid
+4. Quit
+Menu Item 1 selected.
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+Menu Item 1 selected.
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  2 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  3 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  4 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  5 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  6 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+  7 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+  8 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+  9 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 10 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 11 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 12 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+
+Sorry, we could not book the requested seat
+1. Book in First Class
+2. Book in Economy Class
+3. Show Floor Grid
+4. Quit
+Menu Item 4 selected.
+Goodbye.
